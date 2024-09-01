@@ -1,2 +1,2 @@
-# hello--world
- primeiro repositório versionado
+# hello, world
+ primeiro repositório versionado de git e github
